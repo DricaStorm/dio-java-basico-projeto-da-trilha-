@@ -1,5 +1,4 @@
 public class TesteIPhone {
-    public class TesteIPhone {
         public static void main(String[] args) {
             IPhone iphone = new IPhone();
             
@@ -10,4 +9,3 @@ public class TesteIPhone {
             iphone.desligar();
         }
     }
-}
